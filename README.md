@@ -4,6 +4,7 @@
 
 NEXUS is a custom-built autonomous agent that researches real-world questions, dynamically selects tools, observes their results, adapts when tools fail, verifies information, and produces an evidence-backed final result.
 
+
 ## Why this is an agent
 NEXUS implements a true agentic loop from scratch. Instead of hardcoded steps or framework wrappers, it provides a transparent core loop that hands decision-making power to an  LLM.
 
