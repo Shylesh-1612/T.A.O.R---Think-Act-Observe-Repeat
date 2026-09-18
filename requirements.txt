@@ -1,0 +1,6 @@
+openai
+pydantic
+streamlit
+pytest
+python-dotenv
+httpx
