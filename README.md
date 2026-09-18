@@ -43,7 +43,7 @@ Final Answer
 1. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Or venv\Scripts\activate on Windows
+   source venv/bin/activate # Or venv\Scripts\activate on Windows
    ```
 
 2. Install requirements:
