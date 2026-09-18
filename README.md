@@ -68,10 +68,11 @@ python demo/demo.py normal
 python demo/demo.py failure
 ```
 
-### Run Streamlit UI
+### Run Flask UI (Eye-pleasing Web UI)
 ```bash
-streamlit run ui/app.py
+python ui/flask_app.py
 ```
+*Access the UI at `http://127.0.0.1:5000` in your web browser.*
 
 ## Known Limitations
 - The Extractor currently simulates data structuring via localized regex rather than a full secondary LLM call to save time and API costs, maintaining loop simplicity.

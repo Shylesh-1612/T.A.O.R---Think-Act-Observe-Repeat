@@ -4,3 +4,4 @@ streamlit
 pytest
 python-dotenv
 httpx
+flask>=3.0.0
